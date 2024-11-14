@@ -1,0 +1,15 @@
+coverage
+dist
+node_modules
+*.log
+.*
+!.babelrc
+!.editorconfig
+!.eslintrc
+!.flowconfig
+!.github
+!.gitignore
+!.npmignore
+!.README
+!.releaserc
+!.scripts
